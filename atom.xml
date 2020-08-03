@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangzhang88.GitHub.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-03T16:06:13.985Z</updated>
+    <title>zhangzhang88</title>
+    <updated>2020-08-03T16:14:43.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangzhang88.GitHub.io"/>
     <link rel="self" href="https://zhangzhang88.GitHub.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>github建造的网站</subtitle>
     <logo>https://zhangzhang88.GitHub.io/images/avatar.png</logo>
     <icon>https://zhangzhang88.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, zhangzhang88</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次做网站，很开心]]></title>
+        <id>https://zhangzhang88.GitHub.io/post/di-yi-ci-zuo-wang-zhan-hen-kai-xin/</id>
+        <link href="https://zhangzhang88.GitHub.io/post/di-yi-ci-zuo-wang-zhan-hen-kai-xin/">
+        </link>
+        <updated>2020-08-03T16:12:21.000Z</updated>
+        <content type="html"><![CDATA[<p>有点笨拙，粗心，人才会出错，计算机不会错的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhangzhang88.GitHub.io/post/hello-gridea/</id>
